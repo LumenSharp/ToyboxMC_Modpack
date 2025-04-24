@@ -15,6 +15,7 @@ Adds new planets to explore through rocketship travel.
 
 ---
 
+
 ### Adorn (`@adorn`)
 
 Adds many structures for decorating your home 
@@ -22,6 +23,7 @@ Adds many structures for decorating your home
 [[Modpage]](https://modrinth.com/mod/adorn)
 
 ---
+
 
 ### Alex's Caves (`@alexscaves`)
 
@@ -32,6 +34,7 @@ TONS of interesting content, but time-consuming to explore it all.
 
 ---
 
+
 ### Alex's Mobs (`@alexsmobs`)
 
 Adds many new mobs with tons of personality and features.
@@ -40,6 +43,7 @@ Tons of excellent information can be found in the newly added item called the `A
 [[Modpage]](https://modrinth.com/mod/alexs-mobs)
 
 ---
+
 
 ### Apotheosis (`@apotheosis`)
 
@@ -51,6 +55,16 @@ It is given to every player when they first join the server, but can also be cra
 [[Modpage]](https://www.curseforge.com/minecraft/mc-mods/apotheosis)
 
 ---
+
+
+### Aquamirae (`@aquamirae`)
+
+Adds many sea-themed creatures and sturctures to the overworld's oceans.
+
+[[Wiki]](https://github.com/ObscuriaLithium/Aquamirae/wiki) | [[Modpage]]([https://modrinth.com/mod/astikorcarts-redux](https://modrinth.com/mod/aquamirae)
+
+---
+
 
 ### Astikor Carts (`@astikorcarts`)
 
@@ -338,6 +352,25 @@ Place torches to light up any areas that arnt green.
 Adds many different home decoration blocks.
 
 [[Modpage]](https://modrinth.com/mod/macaws-furniture)
+
+---
+
+### Mowzie's Mobs (`???`)
+
+Adds variety of fictional bosses & creatures to minecraft.
+
+[[Wiki]](https://github.com/ObscuriaLithium/Aquamirae/wiki) | [[Modpage]](https://modrinth.com/mod/mowzies-mobs)
+
+---
+
+
+---
+
+### Mutant Monsters (`???`)
+
+Adds a craftable potion (`Potion X`) that will mutate several vanilla mobs into significantly stronger creatures - each with their own set of abilities!
+
+[[Modpage]](https://modrinth.com/mod/mutant-monsters)
 
 ---
 
